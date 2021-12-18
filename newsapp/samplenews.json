@@ -1,0 +1,435 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Rebecca Robbins, Christina Jewett",
+            "title": "Covid-19 Vaccine and Omicron Variant News: Live Updates - The New York Times",
+            "description": "The agency cited increasing evidence that the company’s shots can trigger a rare blood clotting disorder. Scientists are racing to gauge the threat that Omicron poses.",
+            "url": "https://www.nytimes.com/live/2021/12/17/world/covid-omicron-vaccines",
+            "urlToImage": "https://static01.nyt.com/images/2021/12/17/us/17virus-brief-johnson-promo/17virus-brief-johnson-promo-facebookJumbo.jpg",
+            "publishedAt": "2021-12-17T12:27:34Z",
+            "content": "The Centers for Disease Control and Prevention recommended on Thursday that Covid vaccines other than Johnson &amp; Johnsons should be preferred, after its advisers cited increasing evidence that the… [+4085 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Max Goldbart",
+            "title": "Chris Noth Allegations: ‘Law & Order’ Actress Zoe Lister-Jones Says Noth Was “Sexually Inappropriate” Towards Her & “Drunk On Set” - Deadline",
+            "description": "Law & Order actor Zoe Lister-Jones has accused Chris Noth of sexually inappropriate behavior just hours after two women claimed he had sexually assaulted them. Lister-Jones posted an Instagram Story late last night in which she said Noth had “got close to me,…",
+            "url": "https://deadline.com/2021/12/chris-noth-allegations-law-order-star-zoe-lister-jones-says-noth-was-sexually-inappropriate-hours-after-two-women-accuse-him-of-sexual-assault-1234898428/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/12/AP20010159231426.jpg?w=1024",
+            "publishedAt": "2021-12-17T09:45:00Z",
+            "content": "Law &amp; Order actor Zoe Lister-Jones has accused Chris Noth of sexually inappropriate behavior just hours after two women claimed he had sexually assaulted them.\r\nLister-Jones posted an Instagram S… [+2323 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Cara Lombardo, Dana Cimilluca",
+            "title": "Oracle in talks to buy Cerner - Fox Business",
+            "description": "An agreement, which could potentially be worth $30 billion, would rank as biggest ever for software giant",
+            "url": "https://www.wsj.com/articles/oracle-in-talks-to-buy-cerner-11639697730",
+            "urlToImage": "https://images.wsj.net/im-453802/social",
+            "publishedAt": "2021-12-17T09:39:48Z",
+            "content": "Oracle Corp.\r\n ORCL -0.41%\r\nis in talks to buy electronic-medical-records company\r\nCerner Corp.\r\n CERN 0.72%\r\n, according to people familiar with the matter, a deal that could be worth around $30 bil… [+4711 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Natalie Allison, Burgess Everett",
+            "title": "GOP blows off Trump’s bid to oust McConnell - POLITICO",
+            "description": "Just two Senate candidates — and no senators — have publicly called for replacing the Republican leader.",
+            "url": "https://www.politico.com/news/2021/12/17/gop-trump-oust-mcconnell-525207",
+            "urlToImage": "https://static.politico.com/1c/22/68024bee42ec9232bdbc8b57008a/20211216-mitch-mcconnell-ap-773.jpg",
+            "publishedAt": "2021-12-17T09:31:35Z",
+            "content": "Voters care more about what you do as a senator, what you bring up, what you voted against, how you fight for it, said Sen. Tommy Tuberville (R-Ala.), who won in 2020 with Trumps endorsement and beli… [+8427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Travis Kelce’s walkoff touchdown clinches victory for Chiefs over Chargers - The Guardian",
+            "description": "Travis Kelce had a career-high 191 receiving yards and scored on a 34-yard pass from Patrick Mahomes in overtime as the Chiefs rallied for a 34-28 victory",
+            "url": "https://amp.theguardian.com/sport/2021/dec/17/travis-kelces-walkoff-touchdown-clinches-victory-for-chiefs-over-chargers",
+            "urlToImage": null,
+            "publishedAt": "2021-12-17T09:02:00Z",
+            "content": "NFL<ul><li>Kansas City Chiefs 3428 Los Angeles Chargers</li><li>Chargers fail to score on three trips to the red zone</li><li>Chiefs control AFC West after seventh-straight victory</li></ul>\r\nFri 17 … [+4636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Stephen Castle, Mark Landler",
+            "title": "Britain’s Conservatives Lose ‘Safe’ Seat, Dealing a Blow to Boris Johnson - The New York Times",
+            "description": "The governing party lost to the Liberal Democrats a district that it had represented for more than a century.",
+            "url": "https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/12/17/world/17uk-election-05/17uk-election-05-facebookJumbo.jpg",
+            "publishedAt": "2021-12-17T08:53:00Z",
+            "content": "Although the Liberal Democrats had hoped to pull off a surprise victory, the size of their majority was striking and unexpected. Ed Davey, the leader of the party, described the result as a watershed… [+1913 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jessie Yeung and Jinky Jorgio, CNN",
+            "title": "Super Typhoon Rai slams into the Philippines as rescue operations get underway - CNN",
+            "description": "Search and rescue operations were underway in the Philippines on Friday after super Typhoon Rai, known locally as Odette, wreaked havoc across the archipelago, leaving at least two people dead.",
+            "url": "https://www.cnn.com/2021/12/16/asia/super-typhoon-rai-philippines-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211217021548-philippines-typhoon-rai-damage-1217-super-tease.jpg",
+            "publishedAt": "2021-12-17T08:42:00Z",
+            "content": "(CNN)Search and rescue operations were underway in the Philippines on Friday after super Typhoon Rai, known locally as Odette, wreaked havoc across the archipelago, leaving at least two people dead. … [+5717 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Kierra Frazier",
+            "title": "Judge rejects Purdue Pharma's $4.5 billion opioid settlement - Axios",
+            "description": "Purdue said it will appeal the ruling.",
+            "url": "https://www.axios.com/purdue-pharma-opioids-settlement-ruling-5d56f27b-eebe-4d6e-a1ac-7915d45f8795.html",
+            "urlToImage": "https://images.axios.com/fVtC86wopEZ9wdQaD3n0URX8Azw=/0x129:5472x3207/1366x768/2021/12/17/1639706061086.jpg",
+            "publishedAt": "2021-12-17T08:19:03Z",
+            "content": "A federal judge on Thursday rejected Purdue Pharma's $4.5 billion bankruptcy settlement with thousands of state, local and tribal governments who sued the company over the opioid epidemic. Purdue sai… [+2769 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Japan: At least 27 feared dead in Osaka building fire - BBC News",
+            "description": "Police are looking into the possibility that the blaze was deliberately started, local media report.",
+            "url": "https://www.bbc.com/news/world-asia-59663831",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10B5D/production/_122254486_hi072668488.jpg",
+            "publishedAt": "2021-12-17T08:07:51Z",
+            "content": "Image caption, Windows were blackened by the blaze on the fourth floor of the building\r\nAt least 27 people are feared to have died after a fire broke out in a building in downtown Osaka, Japan. \r\nPol… [+1530 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. relaxes restriction on abortion pill, allows women to obtain by mail - Reuters",
+            "description": "The U.S. government on Thursday permanently eased some restrictions on a pill used to terminate early pregnancies, allowing the drug to be sent by mail rather than requiring it to be dispensed in person.",
+            "url": "https://www.reuters.com/world/us/us-fda-allow-abortion-pill-by-mail-permanently-2021-12-16/",
+            "urlToImage": "https://www.reuters.com/resizer/sNcCXi7FigGE0CDUyn2mO_O3Dis=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZRSF6SOKU5MSLEO5AHPBKUMBGM.jpg",
+            "publishedAt": "2021-12-17T07:19:00Z",
+            "content": "NEW YORK, Dec 16 (Reuters) - The U.S. government on Thursday permanently eased some restrictions on a pill used to terminate early pregnancies, allowing the drug to be sent by mail rather than requir… [+3765 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Kenneth Garger",
+            "title": "5 children killed in Australia bouncy castle tragedy ID'd as police kick off probe - New York Post ",
+            "description": "The victims were all fifth and sixth graders at Hillcrest Primary School who died after plunging about 30 feet from the bouncy castle that was whipped into the air by a gust of wind.",
+            "url": "https://nypost.com/2021/12/17/australia-bouncy-castle-victims-killed-at-hillcrest-primary-school-identified/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/12/tasmania-victims-831.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-12-17T07:04:00Z",
+            "content": "All five children killed in a bouncy castle tragedy outside their Australian school were identified Friday as police began investigating if the giant inflatable was properly secured to the ground.\r\nT… [+2007 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Michelle Starr",
+            "title": "Organic Molecules Have Been Confirmed in The Jezero Crater on Mars - ScienceAlert",
+            "description": "It hasn't even been on Mars a full year, and NASA's Perseverance rover is making excellent surprise discoveries.",
+            "url": "https://www.sciencealert.com/perseverance-has-discovered-organic-molecules-in-mars-jezero-crater",
+            "urlToImage": "https://www.sciencealert.com/images/2021-12/processed/SandyPlainsAndWhatLooksLikeARiverDelta_1024.jpg",
+            "publishedAt": "2021-12-17T05:45:56Z",
+            "content": "It hasn't even been on Mars a full year, and NASA's Perseverance rover is making excellent surprise discoveries.\r\nAmid a number of findings announced this week at the American Geophysical Union Fall … [+4240 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Shibani Mahtani",
+            "title": "Hong Kong election boycott looms as opposition languishes in jail - The Washington Post",
+            "description": "Changes to the electoral system have predetermined the outcome; voters may pick from a coterie of candidates largely aligned with Beijing.",
+            "url": "https://www.washingtonpost.com/world/asia_pacific/hong-kong-vote-democracy-jail/2021/12/17/fa4b2252-5bbf-11ec-b1ef-cb78be717f0e_story.html",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R5T55US5RYI6ZMPPZN4L44L7BY.jpg&w=1440",
+            "publishedAt": "2021-12-17T05:15:18Z",
+            "content": "The Orwellian episode underscores the flimsy veneer of legitimacy covering this weekends electoral exercise. In the 18 months since Hong Kong leaders postponed the vote, citing the pandemic, authorit… [+5708 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Rebecca Robbins, Christina Jewett",
+            "title": "Covid-19 Vaccine and Omicron Variant News: Live Updates - The New York Times",
+            "description": "The agency cited increasing evidence that the company’s shots can trigger a rare blood clotting disorder. Scientists are racing to gauge the threat that Omicron poses.",
+            "url": "https://www.nytimes.com/live/2021/12/17/world/covid-omicron-vaccines",
+            "urlToImage": "https://static01.nyt.com/images/2021/12/17/us/17virus-brief-johnson-promo/17virus-brief-johnson-promo-facebookJumbo.jpg",
+            "publishedAt": "2021-12-17T12:27:34Z",
+            "content": "The Centers for Disease Control and Prevention recommended on Thursday that Covid vaccines other than Johnson &amp; Johnsons should be preferred, after its advisers cited increasing evidence that the… [+4085 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Max Goldbart",
+            "title": "Chris Noth Allegations: ‘Law & Order’ Actress Zoe Lister-Jones Says Noth Was “Sexually Inappropriate” Towards Her & “Drunk On Set” - Deadline",
+            "description": "Law & Order actor Zoe Lister-Jones has accused Chris Noth of sexually inappropriate behavior just hours after two women claimed he had sexually assaulted them. Lister-Jones posted an Instagram Story late last night in which she said Noth had “got close to me,…",
+            "url": "https://deadline.com/2021/12/chris-noth-allegations-law-order-star-zoe-lister-jones-says-noth-was-sexually-inappropriate-hours-after-two-women-accuse-him-of-sexual-assault-1234898428/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/12/AP20010159231426.jpg?w=1024",
+            "publishedAt": "2021-12-17T09:45:00Z",
+            "content": "Law &amp; Order actor Zoe Lister-Jones has accused Chris Noth of sexually inappropriate behavior just hours after two women claimed he had sexually assaulted them.\r\nLister-Jones posted an Instagram S… [+2323 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Cara Lombardo, Dana Cimilluca",
+            "title": "Oracle in talks to buy Cerner - Fox Business",
+            "description": "An agreement, which could potentially be worth $30 billion, would rank as biggest ever for software giant",
+            "url": "https://www.wsj.com/articles/oracle-in-talks-to-buy-cerner-11639697730",
+            "urlToImage": "https://images.wsj.net/im-453802/social",
+            "publishedAt": "2021-12-17T09:39:48Z",
+            "content": "Oracle Corp.\r\n ORCL -0.41%\r\nis in talks to buy electronic-medical-records company\r\nCerner Corp.\r\n CERN 0.72%\r\n, according to people familiar with the matter, a deal that could be worth around $30 bil… [+4711 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Natalie Allison, Burgess Everett",
+            "title": "GOP blows off Trump’s bid to oust McConnell - POLITICO",
+            "description": "Just two Senate candidates — and no senators — have publicly called for replacing the Republican leader.",
+            "url": "https://www.politico.com/news/2021/12/17/gop-trump-oust-mcconnell-525207",
+            "urlToImage": "https://static.politico.com/1c/22/68024bee42ec9232bdbc8b57008a/20211216-mitch-mcconnell-ap-773.jpg",
+            "publishedAt": "2021-12-17T09:31:35Z",
+            "content": "Voters care more about what you do as a senator, what you bring up, what you voted against, how you fight for it, said Sen. Tommy Tuberville (R-Ala.), who won in 2020 with Trumps endorsement and beli… [+8427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Travis Kelce’s walkoff touchdown clinches victory for Chiefs over Chargers - The Guardian",
+            "description": "Travis Kelce had a career-high 191 receiving yards and scored on a 34-yard pass from Patrick Mahomes in overtime as the Chiefs rallied for a 34-28 victory",
+            "url": "https://amp.theguardian.com/sport/2021/dec/17/travis-kelces-walkoff-touchdown-clinches-victory-for-chiefs-over-chargers",
+            "urlToImage": null,
+            "publishedAt": "2021-12-17T09:02:00Z",
+            "content": "NFL<ul><li>Kansas City Chiefs 3428 Los Angeles Chargers</li><li>Chargers fail to score on three trips to the red zone</li><li>Chiefs control AFC West after seventh-straight victory</li></ul>\r\nFri 17 … [+4636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Stephen Castle, Mark Landler",
+            "title": "Britain’s Conservatives Lose ‘Safe’ Seat, Dealing a Blow to Boris Johnson - The New York Times",
+            "description": "The governing party lost to the Liberal Democrats a district that it had represented for more than a century.",
+            "url": "https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/12/17/world/17uk-election-05/17uk-election-05-facebookJumbo.jpg",
+            "publishedAt": "2021-12-17T08:53:00Z",
+            "content": "Although the Liberal Democrats had hoped to pull off a surprise victory, the size of their majority was striking and unexpected. Ed Davey, the leader of the party, described the result as a watershed… [+1913 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jessie Yeung and Jinky Jorgio, CNN",
+            "title": "Super Typhoon Rai slams into the Philippines as rescue operations get underway - CNN",
+            "description": "Search and rescue operations were underway in the Philippines on Friday after super Typhoon Rai, known locally as Odette, wreaked havoc across the archipelago, leaving at least two people dead.",
+            "url": "https://www.cnn.com/2021/12/16/asia/super-typhoon-rai-philippines-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211217021548-philippines-typhoon-rai-damage-1217-super-tease.jpg",
+            "publishedAt": "2021-12-17T08:42:00Z",
+            "content": "(CNN)Search and rescue operations were underway in the Philippines on Friday after super Typhoon Rai, known locally as Odette, wreaked havoc across the archipelago, leaving at least two people dead. … [+5717 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Kierra Frazier",
+            "title": "Judge rejects Purdue Pharma's $4.5 billion opioid settlement - Axios",
+            "description": "Purdue said it will appeal the ruling.",
+            "url": "https://www.axios.com/purdue-pharma-opioids-settlement-ruling-5d56f27b-eebe-4d6e-a1ac-7915d45f8795.html",
+            "urlToImage": "https://images.axios.com/fVtC86wopEZ9wdQaD3n0URX8Azw=/0x129:5472x3207/1366x768/2021/12/17/1639706061086.jpg",
+            "publishedAt": "2021-12-17T08:19:03Z",
+            "content": "A federal judge on Thursday rejected Purdue Pharma's $4.5 billion bankruptcy settlement with thousands of state, local and tribal governments who sued the company over the opioid epidemic. Purdue sai… [+2769 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Japan: At least 27 feared dead in Osaka building fire - BBC News",
+            "description": "Police are looking into the possibility that the blaze was deliberately started, local media report.",
+            "url": "https://www.bbc.com/news/world-asia-59663831",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10B5D/production/_122254486_hi072668488.jpg",
+            "publishedAt": "2021-12-17T08:07:51Z",
+            "content": "Image caption, Windows were blackened by the blaze on the fourth floor of the building\r\nAt least 27 people are feared to have died after a fire broke out in a building in downtown Osaka, Japan. \r\nPol… [+1530 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. relaxes restriction on abortion pill, allows women to obtain by mail - Reuters",
+            "description": "The U.S. government on Thursday permanently eased some restrictions on a pill used to terminate early pregnancies, allowing the drug to be sent by mail rather than requiring it to be dispensed in person.",
+            "url": "https://www.reuters.com/world/us/us-fda-allow-abortion-pill-by-mail-permanently-2021-12-16/",
+            "urlToImage": "https://www.reuters.com/resizer/sNcCXi7FigGE0CDUyn2mO_O3Dis=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZRSF6SOKU5MSLEO5AHPBKUMBGM.jpg",
+            "publishedAt": "2021-12-17T07:19:00Z",
+            "content": "NEW YORK, Dec 16 (Reuters) - The U.S. government on Thursday permanently eased some restrictions on a pill used to terminate early pregnancies, allowing the drug to be sent by mail rather than requir… [+3765 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Kenneth Garger",
+            "title": "5 children killed in Australia bouncy castle tragedy ID'd as police kick off probe - New York Post ",
+            "description": "The victims were all fifth and sixth graders at Hillcrest Primary School who died after plunging about 30 feet from the bouncy castle that was whipped into the air by a gust of wind.",
+            "url": "https://nypost.com/2021/12/17/australia-bouncy-castle-victims-killed-at-hillcrest-primary-school-identified/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/12/tasmania-victims-831.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-12-17T07:04:00Z",
+            "content": "All five children killed in a bouncy castle tragedy outside their Australian school were identified Friday as police began investigating if the giant inflatable was properly secured to the ground.\r\nT… [+2007 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Michelle Starr",
+            "title": "Organic Molecules Have Been Confirmed in The Jezero Crater on Mars - ScienceAlert",
+            "description": "It hasn't even been on Mars a full year, and NASA's Perseverance rover is making excellent surprise discoveries.",
+            "url": "https://www.sciencealert.com/perseverance-has-discovered-organic-molecules-in-mars-jezero-crater",
+            "urlToImage": "https://www.sciencealert.com/images/2021-12/processed/SandyPlainsAndWhatLooksLikeARiverDelta_1024.jpg",
+            "publishedAt": "2021-12-17T05:45:56Z",
+            "content": "It hasn't even been on Mars a full year, and NASA's Perseverance rover is making excellent surprise discoveries.\r\nAmid a number of findings announced this week at the American Geophysical Union Fall … [+4240 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Shibani Mahtani",
+            "title": "Hong Kong election boycott looms as opposition languishes in jail - The Washington Post",
+            "description": "Changes to the electoral system have predetermined the outcome; voters may pick from a coterie of candidates largely aligned with Beijing.",
+            "url": "https://www.washingtonpost.com/world/asia_pacific/hong-kong-vote-democracy-jail/2021/12/17/fa4b2252-5bbf-11ec-b1ef-cb78be717f0e_story.html",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R5T55US5RYI6ZMPPZN4L44L7BY.jpg&w=1440",
+            "publishedAt": "2021-12-17T05:15:18Z",
+            "content": "The Orwellian episode underscores the flimsy veneer of legitimacy covering this weekends electoral exercise. In the 18 months since Hong Kong leaders postponed the vote, citing the pandemic, authorit… [+5708 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "ExoMars Discovers Hidden Water in Mars’ Grand Canyon – The Largest Canyon in the Solar System - SciTechDaily",
+            "description": "The ESA-Roscosmos ExoMars Trace Gas Orbiter has spotted significant amounts of water at the heart of Mars’ dramatic canyon system, Valles Marineris. The water, which is hidden beneath Mars’ surface, was found by the Trace Gas Orbiter (TGO)’s FREND instrument,…",
+            "url": "https://scitechdaily.com/exomars-discovers-hidden-water-in-mars-grand-canyon-the-largest-canyon-in-the-solar-system/",
+            "urlToImage": "https://scitechdaily.com/images/Hidden-Water-Mars-Grand-Canyon.gif",
+            "publishedAt": "2021-12-17T04:58:00Z",
+            "content": "The water, which is hidden beneath Mars’ surface, was found by the Trace Gas Orbiter (TGO)’s FREND instrument, which is mapping the hydrogen – a measure of water content – in the uppermost meter of M… [+5867 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STYLECASTER"
+            },
+            "author": "Jason Pham",
+            "title": "The 'Spider-Man: No Way Home' Post-Credit Scenes Reveal Peter Parker's Next Big Villain - StyleCaster",
+            "description": "Can't wait until the next MCU? Read this for what happens.",
+            "url": "https://stylecaster.com/spider-man-no-way-home-post-credit-scenes/",
+            "urlToImage": "https://stylecaster.com/wp-content/uploads/2021/12/Spider-Man-No-Way-Home.jpg",
+            "publishedAt": "2021-12-17T04:40:00Z",
+            "content": "Warning: Spider-Man: No Way Home spoilers ahead: As Marvel fans know, the end-credit scenes are sometimes the best (and most confusing) parts of MCU movies, and the Spider-Man: No Way Home post-credi… [+8706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KHOU.com"
+            },
+            "author": "Charlie Haldeman",
+            "title": "What is compression asphyxia? Houston doctor explains cause of death for Astroworld victims - KHOU.com",
+            "description": "All 10 victims suffered from what's known as compression asphyxia, according to a report released Thursday.",
+            "url": "https://www.khou.com/article/news/local/astroworld-festival-cause-of-deaths-revealed/285-6c467411-1729-41be-86bf-f3b099c81a58",
+            "urlToImage": "https://media.khou.com/assets/KHOU/images/e9cbdced-434c-4491-90b6-c4695dea40d2/e9cbdced-434c-4491-90b6-c4695dea40d2_1140x641.jpg",
+            "publishedAt": "2021-12-17T04:30:00Z",
+            "content": "HOUSTON The victims who died in last month's Astroworld Festival tragedy all suffered from compression asphyxia, according to a report released Thursday by the Harris County Institute of Forensic Sci… [+4145 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ABC17News.com"
+            },
+            "author": "Matthew Sanders",
+            "title": "Gasconade County school district to close Friday after TikTok threat challenge - ABC17News.com",
+            "description": "School districts across Mid-Missouri say they've been made aware of a trend on social media app TikTok that challenges kids to threaten their schools.",
+            "url": "https://abc17news.com/news/education/2021/12/16/gasconade-county-school-district-to-close-friday-after-tiktok-threat-challenge/",
+            "urlToImage": "https://abc17news.b-cdn.net/abc17news.com/2021/12/MGN_1280x960_10921P00-DPKXP.jpg",
+            "publishedAt": "2021-12-17T04:18:45Z",
+            "content": "COLUMBIA, Mo. (KMIZ)\r\nA district in Gasoncade County will be closed Friday and school districts across Mid-Missouri say they've been made aware of a trend on social media app TikTok that challenges k… [+3153 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Richard Lawler",
+            "title": "LG refreshes its pricey Pro OLED monitors for 2022 and adds a 27-inch option - The Verge",
+            "description": "LG has two new OLED monitors coming next year, but these aren’t for gaming and won’t compete with the 4K TVs we love so much. Instead, the 27- and 31.5-inch monitors are made for editing photos and videos with accurate color and contrast.",
+            "url": "https://www.theverge.com/2021/12/16/22840813/lg-ultrafine-oled-pro-monitor-2022-ces",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qyRWeewc13jBDMZqC2yMAMnMbQ8=/0x0:1800x942/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23103197/LG_OLED_Pro_Monitor_00_1200.jpg",
+            "publishedAt": "2021-12-17T04:01:24Z",
+            "content": "These 4K OLEDs arent built for 120Hz gaming\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nImage: LG\r\nIn 2021 LG added an OLED-based monitor for … [+2217 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katelyn Polantz, CNN Reporter, Crime and Justice",
+            "title": "Dominion Voting wins key decision in lawsuit against Fox News - CNN",
+            "description": "A judge in Delaware has found that Fox News' coverage of election fraud after the 2020 election may have been inaccurate, and is allowing a major defamation case against the right-wing TV network to move forward.",
+            "url": "https://www.cnn.com/2021/12/16/media/fox-news-court-dominion/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200905102123-01-fox-news-file-super-tease.jpg",
+            "publishedAt": "2021-12-17T03:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Adam Bankhurst",
+            "title": "Nintendo Switch Online + Expansion Pack Adds 5 SEGA Genesis Games, Including Altered Beast - IGN - IGN",
+            "description": "Nintendo Switch Online + Expansion Pack has added five new SEGA Genesis games to its service, including Altered Beast, ToeJam & Earl, Dynamite Headdy, Sword of Vermilion, and Thunder Force II.",
+            "url": "https://www.ign.com/articles/nintendo-switch-online-expansion-pack-adds-5-sega-genesis-games-including-toejam-earl",
+            "urlToImage": "https://assets-prd.ignimgs.com/2021/12/17/alteredbeast-ign-1480966829045-1639710063897.jpg?width=1280",
+            "publishedAt": "2021-12-17T03:05:20Z",
+            "content": "Nintendo Switch Online + Expansion Pack has added five new SEGA Genesis games to its service, including Altered Beast, ToeJam &amp; Earl, Dynamite Headdy, Sword of Vermilion, and Thunder Force II.\r\nN… [+1823 chars]"
+        }
+    ]
+}
