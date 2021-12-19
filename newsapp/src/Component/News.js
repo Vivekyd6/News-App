@@ -204,9 +204,16 @@ export class News extends Component {
         super();
         console.log("Hello I am a constructor from News component");
         this.state = {
-            articles: this.articles,
+            articles: [],
             loading: false
         }
+    }
+     async componentDidMount(){
+         let url ="https://newsapi.org/v2/top-headlines?country=in&apiKey=afc619fd6e94441d915e31555a95726d"
+        let data= await fetch(url);
+        let parseData = await data.json();
+        console.log(parseData);
+        this.setState({articles: parseData.articles})
     }
 
     render() {
@@ -215,8 +222,8 @@ export class News extends Component {
              <h2>NewsMonkey - Top Headlines</h2>
              <div className="row">
                 {this.state.articles.map((Element)=>{
-                    return <div className="col-md-3" key={Element.url}>
-                        <NewsItem title={Element.title.slice(0,40)} description={Element.description.slice(0,90)} imageUrl={Element.urlToImage} newsUrl={Element.newsUrl} />
+                    return <div className="col-md-4" key={Element.url}>
+                        <NewsItem title={Element.title?Element.title.slice(0,40):""} description={Element.description?Element.description.slice(0,90):""} imageUrl={Element.urlToImage} newsUrl={Element.url} />
                     </div>
                 })}
              </div>
