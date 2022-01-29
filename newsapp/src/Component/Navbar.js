@@ -4,7 +4,7 @@ export default class Navbar extends Component {
   render(){
          return(
              <div className="">
-                 <nav className="navbar fixed-top ml-auto text-center navbar-expand-lg navbar-dark bg-dark">
+                 <nav className="navbar fixed-top ml-auto text-center navbar-expand-lg navbar-dark " style={{backgroundColor:"teal"}}>
                      <div className="container-fluid ml-auto text-center">
                          <Link className="navbar-brand" to="/">NewsApp</Link>
                          <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
